@@ -1,0 +1,47 @@
+/* This container controls the book's size and centers it */
+.book-container {
+  width: 90%; /* Use a percentage for responsiveness */
+  max-width: 900px; /* Set a max-width for larger screens */
+  height: auto; /* Height will be determined by the aspect ratio */
+  margin: 20px auto; /* Center the book on the page */
+}
+
+/* This makes the book itself fill the container */
+.my-book {
+  width: 100%;
+  height: 100%;
+}
+
+/* General styling for all pages */
+.page {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.page-content {
+  width: 100%;
+  height: 100%;
+}
+
+/* This is key: make the image fill its container (the page) */
+.page-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* This will cover the area, cropping if necessary */
+  /* Use 'contain' if you want to see the whole image without cropping */
+  /* object-fit: contain; */
+}
+
+/* Styling for the cover pages */
+.page-cover {
+  background-color: #e0e0e0;
+}
+
+.page-cover h2 {
+  color: #555;
+  text-align: center;
+  font-size: 2em;
+}
