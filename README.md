@@ -11,14 +11,32 @@
 
 ## 🚀 Live Demo & Preview
 
-This project is a modern single-page application (SPA) designed to serve the German market, and international visitors. It features a clean, professional design, smooth page transitions, and seamless language switching.
+This project is a modern single-page application (SPA) designed to serve the German market and international visitors. It features a clean, professional design, smooth page transitions, and seamless language switching.
+
+### 💻 Desktop Experience (Widescreen)
+
+Witness the full desktop experience with seamless navigation, responsive layouts, and elegant animations. The design is optimized for high-resolution monitors.
 
 <p align="center">
   <video src="https://github.com/user-attachments/assets/b17c2439-88fd-4f52-9bb4-25cbd3fef782"
-         width="600"
-         controls
-         poster="assets/demo-cover.jpg"
-         style="border-radius:12px; box-shadow:0 0 12px rgba(0,0,0,0.3);">
+        width="800"
+        controls
+        poster="assets/demo-cover.jpg"
+        style="border-radius:12px; box-shadow:0 0 20px rgba(0,0,0,0.5);">
+      Your browser does not support the video tag.
+  </video>
+</p>
+
+### 📱 Mobile Responsiveness (Vertical View)
+
+The application is meticulously crafted to deliver an equally compelling experience on smaller screens. This video showcases the fluid content adaptation, mobile navigation, and touch-optimized components.
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/a28deba7-a58e-4733-a2d1-0153a82ff0dc"
+        width="350"
+        controls
+        poster="assets/mobile-video-cover.jpg"
+        style="border-radius:12px; box-shadow:0 0 12px rgba(0,0,0,0.3); border: 1px solid #ddd;">
       Your browser does not support the video tag.
   </video>
 </p>
