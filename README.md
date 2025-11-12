@@ -14,7 +14,7 @@
 This project is a modern single-page application (SPA) designed to serve the German market, and international visitors. It features a clean, professional design, smooth page transitions, and seamless language switching.
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/fc0ac0d5-e551-4c77-9fcc-b9f26bcd9e56"
+  <video src="https://github.com/user-attachments/assets/b17c2439-88fd-4f52-9bb4-25cbd3fef782"
          width="600"
          controls
          poster="assets/demo-cover.jpg"
